@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+venv/
+env/
+kaggle.json
+data/            # if you don't want to include the dataset in the repo
+model.pkl        # if you prefer not to store model artifacts in repo
