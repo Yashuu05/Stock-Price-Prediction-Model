@@ -17,3 +17,4 @@
 
 ## Notes
 - Dataset sourced from: `https://www.kaggle.com/datasets/cheesecke/zomato-stock-price`
+- [click here to view dataset](https://www.kaggle.com/datasets/cheesecke/zomato-stock-price)
